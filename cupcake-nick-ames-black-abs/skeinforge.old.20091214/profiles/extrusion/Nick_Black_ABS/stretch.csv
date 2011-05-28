@@ -1,0 +1,11 @@
+Format is tab separated stretch settings.
+Name                          	Value
+windowPositionStretch Settings	0+121
+WindowVisibilities
+Open File for Stretch	
+Activate Stretch	True
+Loop Stretch Over Perimeter Width (ratio):	0.3
+Path Stretch Over Perimeter Width (ratio):	0.0
+Perimeter Inside Stretch Over Perimeter Width (ratio):	0.32
+Perimeter Outside Stretch Over Perimeter Width (ratio):	0.1
+Stretch From Distance Over Perimeter Width (ratio):	2.3

@@ -1,0 +1,7 @@
+Format is tab separated profile preferences.
+Name                          	Value
+cutting	False
+cuttingButton	0
+extrusion	True
+extrusionButton	0
+windowPositionProfile Preferences	0+200
