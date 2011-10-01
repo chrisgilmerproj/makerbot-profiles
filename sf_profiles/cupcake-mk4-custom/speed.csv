@@ -2,7 +2,7 @@ Format is tab separated preferences.
 Activate Speed:	True
 Bridge Feedrate Multiplier (ratio):	1.33
 Extrusion Diameter over Thickness (ratio):	1.71
-Feedrate (mm/s):	35.0
+Feedrate (mm/s):	34.5
 Open File to be Speeded	
 Do Not Add Flowrate	False
 Metric	False
