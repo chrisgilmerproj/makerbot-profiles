@@ -31,7 +31,7 @@ oozebane	False
 outline	False
 outset	False
 preface	False
-raft	False
+raft	True
 reversal	False
 speed	False
 splodge	False
@@ -41,4 +41,4 @@ tower	False
 unpause	False
 whittle	False
 widen	False
-wipe	True
+wipe	False
