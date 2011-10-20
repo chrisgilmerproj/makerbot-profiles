@@ -7,7 +7,7 @@ carve	False
 chamber	False
 chop	False
 cleave	False
-clip	False
+clip	True
 coil	False
 comb	False
 cool	False
@@ -31,12 +31,12 @@ oozebane	False
 outline	False
 outset	False
 preface	False
-raft	True
+raft	False
 reversal	False
 speed	False
 splodge	False
 stretch	False
-temperature	True
+temperature	False
 tower	False
 unpause	False
 whittle	False
