@@ -31,11 +31,11 @@ oozebane	False
 outline	False
 outset	False
 preface	False
-raft	True
+raft	False
 reversal	False
 speed	False
 splodge	False
-stretch	False
+stretch	True
 temperature	False
 tower	False
 unpause	False
